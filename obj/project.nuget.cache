@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B2webTyJS/o=",
+  "success": true,
+  "projectFilePath": "/Users/vishveshmodcoicar/CloudQATest/CloudQATest.csproj",
+  "expectedPackageFiles": [
+    "/Users/vishveshmodcoicar/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/vishveshmodcoicar/.nuget/packages/selenium.support/4.33.0/selenium.support.4.33.0.nupkg.sha512",
+    "/Users/vishveshmodcoicar/.nuget/packages/selenium.webdriver/4.33.0/selenium.webdriver.4.33.0.nupkg.sha512",
+    "/Users/vishveshmodcoicar/.nuget/packages/selenium.webdriver.chromedriver/137.0.7151.5500/selenium.webdriver.chromedriver.137.0.7151.5500.nupkg.sha512"
+  ],
+  "logs": []
+}
